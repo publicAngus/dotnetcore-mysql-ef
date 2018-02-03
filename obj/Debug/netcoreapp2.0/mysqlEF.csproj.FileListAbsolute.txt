@@ -1,0 +1,10 @@
+/home/angus/Desktop/dotnetcore/mysqlEF/bin/Debug/netcoreapp2.0/mysqlEF.deps.json
+/home/angus/Desktop/dotnetcore/mysqlEF/bin/Debug/netcoreapp2.0/mysqlEF.runtimeconfig.json
+/home/angus/Desktop/dotnetcore/mysqlEF/bin/Debug/netcoreapp2.0/mysqlEF.runtimeconfig.dev.json
+/home/angus/Desktop/dotnetcore/mysqlEF/bin/Debug/netcoreapp2.0/mysqlEF.dll
+/home/angus/Desktop/dotnetcore/mysqlEF/bin/Debug/netcoreapp2.0/mysqlEF.pdb
+/home/angus/Desktop/dotnetcore/mysqlEF/obj/Debug/netcoreapp2.0/mysqlEF.csproj.CoreCompileInputs.cache
+/home/angus/Desktop/dotnetcore/mysqlEF/obj/Debug/netcoreapp2.0/mysqlEF.AssemblyInfoInputs.cache
+/home/angus/Desktop/dotnetcore/mysqlEF/obj/Debug/netcoreapp2.0/mysqlEF.AssemblyInfo.cs
+/home/angus/Desktop/dotnetcore/mysqlEF/obj/Debug/netcoreapp2.0/mysqlEF.dll
+/home/angus/Desktop/dotnetcore/mysqlEF/obj/Debug/netcoreapp2.0/mysqlEF.pdb
